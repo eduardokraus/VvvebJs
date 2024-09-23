@@ -843,8 +843,7 @@ Vvveb.Components.add("elements/flip-box", {
 				  </div>
 				</div>
 			</div>
-		  </div>
-		</div>`,
+		  </div>`,
 		properties: [{
 			name: "Width",
 			key: "width",
